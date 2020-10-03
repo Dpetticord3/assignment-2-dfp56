@@ -1,0 +1,11 @@
+---
+title: "Homepage"
+output: html_document
+---
+
+## Collaborators
+
+>Daniel Petticord / Hayden Bock
+
+
+![](https://guides.github.com/features/pages/pages-home-page.png)
