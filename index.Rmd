@@ -5,7 +5,7 @@ output: html_document
 
 ## Collaborators
 
->Daniel Petticord / Hayden Bock
+> [Daniel Petticord](https://github.com/Dpetticord3)  / [Hayden Bock](https://github.com/haydenbock)
 
 
 ![](https://guides.github.com/features/pages/pages-home-page.png)
