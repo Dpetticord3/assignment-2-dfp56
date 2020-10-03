@@ -1,0 +1,12 @@
+---
+title: "Dan"
+output: html_document
+---
+
+>-Originally from Ohio
+>
+>-Went to college in New Jersey
+>
+>-Lived in Panama for ~one year
+>
+>-First year graduate student in the Sparks/Xu Labs
