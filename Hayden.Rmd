@@ -1,0 +1,20 @@
+---
+title: "Hayden.Rmd"
+author: "Hayden Bock"
+date: "9/30/2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+---
+# Hayden Bock
+
+### Some information about me:
+ * I am 23 years old.
+ * I am an entomology PhD student.
+ * I moved to Ithaca from Pennsylvania.
+    + I used to live in Mississippi!
+ * I like to run.
